@@ -30,4 +30,4 @@ This project uses ESP32-CAM and TinyML to classify traffic density (Low, Medium,
 * Source_Code/ → Arduino source files
 * Dataset/ → Training images
 * Report/ → Project documentation
-* Images/ → Architecture and output screenshots
+
